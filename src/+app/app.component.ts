@@ -35,7 +35,7 @@ export class XLargeDirective {
     pre { font-size:12px; }
   `],
   template: `
-  <h1>You Rock with DevOps Susan!!</h1>
+  <h1>You Rock with DevOps!</h1>
   <nav>
     <a routerLinkActive="router-link-active" routerLink="home">Home</a>
     <a routerLinkActive="router-link-active" routerLink="about">About Us</a>
@@ -43,7 +43,7 @@ export class XLargeDirective {
   <div class="hero-universal">
     <div class="inner-hero">
       <div>
-        <span xLarge>You Rock With DevOps, {{ title }}!</span>
+        <span xLarge>Hey, You Rock With DevOps, {{ title }}!</span>
       </div>
 
       Type here your name: <input type="text" [value]="title" (input)="title = $event.target.value">
