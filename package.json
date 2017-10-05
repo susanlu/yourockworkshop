@@ -49,6 +49,7 @@
     "@types/express-serve-static-core": "^4.0.33",
     "@types/hammerjs": "^2.0.32",
     "@types/jasmine": "2.5.38",
+    "@types/jquery": "<2.2",
     "@types/leaflet": "1.0",
     "@types/mime": "0.0.28",
     "@types/morgan": "^1.7.32",
@@ -68,6 +69,7 @@
     "chromedriver": "2.29.0",
     "cloudant": "*",
     "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
     "d3-ng2-service": "1.9.0",
     "express": "^4.14.0",
     "express-session": "1.11.3",
@@ -114,8 +116,7 @@
     "webpack-dev-middleware": "^1.8.4",
     "webpack-dev-server": "2.1.0-beta.11",
     "webpack-merge": "~0.16.0",
-    "zone.js": "~0.6.26",
-    "@types/jquery": "<2.2"
+    "zone.js": "~0.6.26"
   },
   "engines": {
     "node": "6.11.1",
