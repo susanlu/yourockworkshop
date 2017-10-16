@@ -57589,13 +57589,13 @@ else {
 /* 398 */
 /***/ (function(module, exports) {
 
-module.exports = "blockquote {\n  border-left:5px #167BDA solid;\n  background:#FFFFFF;\n  padding:20px 20px 20px 40px;\n}\nblockquote::before {\n  left: 1em;\n}\n"
+module.exports = "blockquote {\r\n  border-left:5px #167BDA solid;\r\n  background:#FFFFFF;\r\n  padding:20px 20px 20px 40px;\r\n}\r\nblockquote::before {\r\n  left: 1em;\r\n}\r\n"
 
 /***/ }),
 /* 399 */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"home\">\n  <h4>Here you can find some resources we used for this Presentation/Workshop</h4>\n  <a href=\"https://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/\">DevOps for Dummies</a>\n</div>\n"
+module.exports = "<div class=\"home\">\r\n  <h4>Here you can find some resources we used for this Presentation/Workshop</h4>\r\n  <a href=\"https://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/\">DevOps for Dummies</a>\r\n</div>\r\n"
 
 /***/ }),
 /* 400 */
