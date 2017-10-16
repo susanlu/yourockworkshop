@@ -43,7 +43,7 @@ export class XLargeDirective {
   <div class="hero-universal">
     <div class="inner-hero">
       <div>
-        <span xLarge>You Rock With DevOps, {{ title }}!</span>
+        <span xLarge>Hey, You Rock With DevOps, {{ title }}!</span>
       </div>
 
       Type here your name: <input type="text" [value]="title" (input)="title = $event.target.value">
